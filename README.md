@@ -9,3 +9,7 @@ Place the `.tet` file in your Godot text editor theme directory:
 - On Linux: `~/.config/godot/text_editor_themes/`
 - On macOS: `~/Library/Application Support/Godot/text_editor_themes/`
 - On Windows: `%APPDATA%\Godot\text_editor_themes\`
+
+# Screenshot
+
+<img width="1068" alt="Screenshot 2023-10-05 at 23 08 11" src="https://github.com/Grunerd/godottheme-tomorrownight/assets/11262143/0bdf0d6d-a4f5-49a9-9caa-b2f75935ada0">
