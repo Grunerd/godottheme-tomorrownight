@@ -49,3 +49,7 @@ gdscript/function_definition_color="81a2beff"
 gdscript/node_path_color="b6bd69ff"
 gdscript/global_function_color="81a2beff"
 gdscript/annotation_color="f0c674ff"
+
+comment_markers/critical_color="bc3f3cff"
+comment_markers/warning_color="f0c674ff"
+
